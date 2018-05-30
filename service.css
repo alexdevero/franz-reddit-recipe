@@ -1,0 +1,4 @@
+[id*=google_ads_iframe] {
+  display: none !important;
+  visibility: hidden !important;
+}
